@@ -462,7 +462,7 @@ section {
   min-height: 60vh;
   padding: 0;
   background: var(--color-black);
-  background: url("../img/bg-robot.jpg") center center;
+  background: url("../img/hero-bg.png") center center;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
